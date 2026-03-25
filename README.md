@@ -24,9 +24,9 @@ Currently leading a team of 5 engineers at Invotyx, building Android apps that h
 
 #### What I'm doing now
 
-- Writing about Android development on [LinkedIn](https://www.linkedin.com/in/nadeem-aslam-android/) (Coroutines deep dives, performance tips)
+- Writing about Android development on [LinkedIn](https://www.linkedin.com/in/nadeem-aslam-android/)
 - Building Android apps at [Invotyx](https://invotyx.com)
-- Freelancing on [Fiverr](https://www.fiverr.com/nadeemaslam786) for mobile app projects
+- Freelancing on [Fiverr](https://www.fiverr.com/nadeem585) for mobile app projects
 - Open to remote Android developer roles and freelance projects
 
 ---
@@ -42,4 +42,4 @@ My apps are published on the Play Store under [Adara Inc](https://play.google.co
 [![Portfolio](https://img.shields.io/badge/Portfolio-nadeemaslam.dev-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://nadeemaslam.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadeem%20Aslam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-aslam-android/)
 [![Email](https://img.shields.io/badge/Email-link2nadeemaslam@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:link2nadeemaslam@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/nadeemaslam786)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/nadeem585)
